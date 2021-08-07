@@ -91,6 +91,8 @@ def lmaoSnooCockBot():
     #for fuck's sake 
       #quality coding right here :)
       #wtf was it
+      # It was a missing semicolon 
+    #ffs
 
     
     
