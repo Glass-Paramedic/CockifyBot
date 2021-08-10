@@ -82,7 +82,7 @@ def lmaoSnooCockBot():
 
       except Exception as ex:
         try:
-          item.reply(f'''I tried to your snoo a cock but I couldn't. Are you sure that you have created a snoo? Sometimes the bot doesn't work for users who have Reddit premium or who have set their profile to NSFW. I could probably fix this but I really can't be bothered.''')
+          item.reply(f'''I tried to give your snoo a cock but I couldn't. Are you sure that you have created a snoo? Sometimes the bot doesn't work for users who have Reddit premium or who have set their profile to NSFW. I could probably fix this but I really can't be bothered.''')
           print(ex)
         except Exception as ex:
           print(ex)
